@@ -1,0 +1,5 @@
+This is a test file created in test-repo.
+Line 1: DIFFERENT content from test-repo
+Line 2: This will conflict when main-repo tries to sync
+Line 3: Conflict expected here!
+
