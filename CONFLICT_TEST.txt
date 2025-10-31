@@ -1,4 +1,4 @@
-This is a test file - TEST-REPO VERSION
-Line 1: DIFFERENT content from test-repo
+This is a test file - MAIN-REPO VERSION
+Line 1: DIFFERENT content from main-repo
 Line 2: This WILL conflict when synced
-Line 3: CONFLICT TEST - test-repo version
+Line 3: CONFLICT TEST - main-repo version
