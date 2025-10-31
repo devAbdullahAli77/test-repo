@@ -1,7 +1,4 @@
-This is a test file created in main-repo.
-Line 1: Content from main-repo
-Line 2: This will be synced to test-repo
-Line 3: If test-repo has different content, there will be a conflict!
-
-Line 4: Trigger run at $(Get-Date)
-
+This is a test file - TEST-REPO VERSION
+Line 1: DIFFERENT content from test-repo
+Line 2: This WILL conflict when synced
+Line 3: CONFLICT TEST - test-repo version
