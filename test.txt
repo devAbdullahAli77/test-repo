@@ -1,2 +1,3 @@
-MAIN-REPO VERSION - This will conflict!
-Completely different content from test-repo version.
+TEST-REPO VERSION - Committed on test-repo
+This content is intentionally different from main-repo.
+This will cause a conflict when main-repo syncs.
