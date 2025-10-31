@@ -3,5 +3,3 @@ Line 1: Content from main-repo
 Line 2: This will be synced to test-repo
 Line 3: If test-repo has different content, there will be a conflict!
 
-Line 4: Trigger run at $(Get-Date)
-
