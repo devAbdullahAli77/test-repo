@@ -1,5 +1,5 @@
-TEST-REPO VERSION - Perfect conflict test
-This is the test-repo committed version before workflow runs.
-This content is intentionally different from main-repo version.
+MAIN-REPO VERSION - Perfect conflict test
+This is the main-repo version that will sync to test-repo.
+This content is intentionally different from test-repo version.
 Line 3: Will cause conflict during rebase.
-Line 4: Additional test-repo content.
+Line 4: Additional main-repo content.
