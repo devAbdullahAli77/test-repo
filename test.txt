@@ -1,4 +1,4 @@
-MAIN-REPO VERSION - Different from test-repo
-This content is intentionally different to cause conflicts.
-Line 3: Main repo version for conflict testing.
-MAIN-REPO: Additional line for conflict test.
+TEST-REPO VERSION - Committed before workflow
+This content is intentionally different from main-repo.
+This will cause a conflict when main-repo syncs.
+Line 4: Additional test-repo content.
