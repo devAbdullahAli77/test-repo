@@ -1,5 +1,3 @@
-MAIN-REPO VERSION - Perfect conflict test
-This is the main-repo version that will sync to test-repo.
-This content is intentionally different from test-repo version.
-Line 3: Will cause conflict during rebase.
-Line 4: Additional main-repo content.
+MAIN-REPO VERSION - Different from test-repo
+This content is intentionally different to cause conflicts.
+Line 3: Main repo version for conflict testing.
